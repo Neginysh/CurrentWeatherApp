@@ -1,5 +1,5 @@
-# app
-Shows the current weather of the desired city, using OpenWeather API.   
+# CurrentWeather
+Android app showing the current weather of the desired city, using OpenWeather API.   
 
 
 <img src="https://github.com/Neginysh/app/blob/master/Screenshot.png" width="300">
